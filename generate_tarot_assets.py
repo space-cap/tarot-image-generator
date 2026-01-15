@@ -25,7 +25,7 @@ if not API_KEY or API_KEY == "YOUR_GEMINI_API_KEY":
 OUTPUT_DIR = "assets/cards"
 
 # 사용할 모델 (Nano Banana = gemini-2.5-flash-image-preview)
-MODEL_NAME = "gemini-2.5-flash-image-preview"
+MODEL_NAME = "gemini-2.0-flash-exp"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL_NAME}:generateContent?key={API_KEY}"
 
 # 공통 프롬프트 스타일 (전체적인 톤앤매너)

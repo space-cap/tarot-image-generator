@@ -1,0 +1,50 @@
+{
+    "major_arcana": {
+        "0": "The Fool: A young man stands on the edge of a cliff, carefree and embarking on a new journey, with a small dog barking at his heels, holding a white rose, bright sun in the background",
+        "1": "The Magician: A figure stands with one hand pointing to the sky and the other to the earth, symbols of the four suits on a table before him, representing manifestation and power, infinity symbol above head",
+        "2": "The High Priestess: A woman sits between two pillars, one black and one white, holding a scroll of secret knowledge, moon at her feet, veil of pomegranates behind her, mysterious and intuitive",
+        "3": "The Empress: A beautiful woman sits on a throne in a lush garden, wearing a crown of stars, holding a scepter, shield with venus symbol, representing fertility, abundance, and nature",
+        "4": "The Emperor: A stern man sits on a stone throne decorated with rams' heads, holding a scepter and orb, red robes, mountains in the background, representing authority, structure, and fatherhood",
+        "5": "The Hierophant: A religious figure sits between two pillars, right hand raised in blessing, two crossed keys at his feet, two acolytes kneeling before him, representing tradition and spiritual guidance",
+        "6": "The Lovers: A naked man and woman stand beneath an angel, sun shining above, adam and eve symbolism, snake in a fruit tree, representing love, harmony, and choices",
+        "7": "The Chariot: A warrior stands in a chariot driven by two sphinxes, one black and one white, starry canopy, holding a wand, city in the background, representing willpower, victory, and determination",
+        "8": "Strength: A woman gently holds the jaws of a lion, infinity symbol above her head, white dress with flowers, calm and confident, representing courage, compassion, and inner strength",
+        "9": "The Hermit: An old man stands alone on a snowy mountain peak, holding a lantern with a star inside and a staff, looking down, representing introspection, solitude, and guidance",
+        "10": "Wheel of Fortune: A large wheel with mysterious symbols, surrounded by the four evangelists, sphinx on top, snake descending, anubis rising, representing destiny, cycles, and change",
+        "11": "Justice: A figure sits between pillars holding a sword in one hand and scales in the other, purple veil, looking straight ahead, representing fairness, truth, and law",
+        "12": "The Hanged Man: A man hangs upside down from a T-shaped tree by one foot, halo around his head, calm expression, red legs, blue shirt, representing surrender, new perspective, and sacrifice",
+        "13": "Death: A skeleton in black armor rides a white horse, carrying a black flag with a white rose, king fallen, child offering flowers, sun rising between towers, representing end, transition, and rebirth",
+        "14": "Temperance: An angel with one foot on land and one in water pours liquid between two cups, path to mountains and sun in background, iris flowers, representing balance, moderation, and patience",
+        "15": "The Devil: A winged horned figure sits on a pedestal, a chained man and woman stand naked below, inverted pentagram, torch, black background, representing bondage, materialism, and addiction",
+        "16": "The Tower: A tall stone tower on a rocky cliff specific struck by lightning, flames bursting from windows, two people falling, crown tofalling off top, representinig sudden change, chaos, and revelation",
+        "17": "The Star: A naked woman kneels by a pool, pouring water onto land and into the pool, large yellow star and seven small stars in the sky, ibis bird in tree, representing hope, inspiration, and serenity",
+        "18": "The Moon: A full moon with a face shines between two towers, a wolf and a dog howl, a crayfish crawls out of a pool, long winding path, representing illusion, intuition, and unconscious",
+        "19": "The Sun: A large bright sun with a face shines in the sky, a naked child rides a white horse holding a red banner, sunflowers growing over a wall, representing joy, success, and vitality",
+        "20": "Judgement: An angel blows a trumpet in the sky, naked people rise from coffins with arms spread, mountains in background, representing awakening, renewal, and absolution",
+        "21": "The World: A naked woman dances inside a laurel wreath, holding two wands, surrounded by the four evangelists in corners, representing completion, wholeness, and accomplishment"
+    },
+    "minor_arcana": {
+        "suits": {
+            "Wands": "element of Fire, red and orange color palette, sprouting wooden staffs, energy, passion, creativity, action",
+            "Cups": "element of Water, blue and cyan color palette, golden chalices, emotion, relationships, intuition, love",
+            "Swords": "element of Air, yellow and grey color palette, sharp steel swords, clouds, intellect, conflict, truth, clarity",
+            "Pentacles": "element of Earth, green and brown color palette, gold coins with pentagrams, nature, material world, career, money, stability"
+        },
+        "ranks": {
+            "Ace": "a single large object appearing from a cloud, divine gift, new beginning, pure potential",
+            "Two": "duality, balance, partnership, planning, waiting, two objects displayed",
+            "Three": "expansion, growth, teamwork, initial success, three objects displayed",
+            "Four": "stability, foundation, celebration or rest, structure, four objects displayed",
+            "Five": "conflict, loss, challenge, struggle, instability, five objects displayed",
+            "Six": "victory, nostalgia, harmony, generosity, restoration, six objects displayed",
+            "Seven": "defense, choices, perseverance, strategy, challenge, seven objects displayed",
+            "Eight": "movement, speed, walking away, diligence, progress, eight objects displayed",
+            "Nine": "resilience, satisfaction, anxiety, independence, near completion, nine objects displayed",
+            "Ten": "completion, burden, legacy, finality, fullness, ten objects displayed",
+            "Page": "young person, messenger, student, curiosity, small potential, holding the suit symbol",
+            "Knight": "person on a horse, action, movement, quest, mission, charging forward or steady",
+            "Queen": "woman on a throne, maturity, nurturing, introspection, emotional depth, holding the suit symbol",
+            "King": "man on a throne, authority, control, mastery, leadership, holding the suit symbol"
+        }
+    }
+}
